@@ -2,5 +2,4 @@ test-contribs
 =============
 
 Hey
-,
 This
